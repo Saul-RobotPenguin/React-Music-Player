@@ -616,6 +616,15 @@ const App = () => {
       img_src: "./songs-cover-images/fredrythym-cover.jpg",
       src: "./songs/(Frederic)-Ongaku to Iu Namae no Fuku.mp3",
     },
+    {
+      title: "ENDLESSTEP",
+      artist: "INUMOKUWANEEYO",
+      album: "hommage only",
+      track: "22",
+      year: "2020",
+      img_src: "./songs-cover-images/endless-step-cover.jpg",
+      src: "./songs/endlessstep.mp3",
+    },
 
     {
       title: "Uso",
