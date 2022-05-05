@@ -4,14 +4,13 @@ A Online Music Player that I Build Using React To Showcase My Favorite Songs!
 
 ## Description
 
-Describing your music taste can be quite difficult in my opionion.
-At least for me.
+Describing your music taste can be quite difficult in my opinion. At least for me.
 
-I love different music ranging from different genres and different languages that its hard to sum up my overall music taste to a word.
+I love different music ranging from different genres and different languages, that its hard to sum up my overall music taste in a word.
 
 Unless that word is "bussin bussin"....
 
-Essentaially I built this website to showcase my React skills and to be that one wierd geek that goes "Check out my website!" or tell the DJ at the party "No need for youtube, just go to https://sauls-music-player.netlify.app/"!
+Essentially I built this website to showcase my React skills and to be that one weird geek that goes "Check out my website!" or tell the DJ at the party, "No need for youtube, just go to https://sauls-music-player.netlify.app/"!
 
 I wouldn't blame you, if you got the sudden urge to shove me into a locker....
 
